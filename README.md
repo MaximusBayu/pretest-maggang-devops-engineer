@@ -12,6 +12,14 @@
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
+1. DevOps merupakan peran dalam pengembangan software yang dimana menjadi penengah antara Developer dan Operations. DevOps dibuat untuk automation dan integration agar mempersingkat tahap pengembangan software.
+2. Infrastruktur adalah fasilitas yang digunakan oleh developer untuk mendeploy software. Infrastruktur biasanya terdiri dari Hardware(Server) dan Software(OS).
+3. Server merupakan sistem komputer yang digunakan untuk menyimpan data dan memberi data yang dibutuhkan oleh client. Beberapa implementasi dari server antara lain Web server (web hosting), Database server (mengelola data), Mail server (mengelola email), dll.
+4. Server dalam development biasanya digunakan untuk menyamakan environment tiap developer agar pada saat dilakukan automation(CI/CD), software yang dikembangkan yang kemungkinan bisa cacat tidak langsung terdeploy.
+5. Virtualisasi adalah pembagian resource hardware yang digunakan untuk membuat sistem komputer baru di hardware yang sama namun lingkungan sistem komputer yang terpisah. Sedangkan Container hampir sama dengan VM namun resources yang dibagi bergantung pada kebutuhan program yang berjalan di virtual OS tersebut.
+6. Container sangat populer digunakan dikarenakan scaling dalam membuat virtual OS yang cepat dan efisien.
+7. Orchestration Container System digunakan untuk scheduling microsevice agar resource dengan workload yang digunakan efisien. Salah satu contoh softwarenya adalah Kubernetes yang didesain utnuk menjalankan container dengan jumlah besar.
+
 ## Task 1 (Virtualization)
 
 - Buatlah sebuah VM dengan kententuan
